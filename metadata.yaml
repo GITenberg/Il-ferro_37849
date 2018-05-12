@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/9030
     wikipedia: http://en.wikipedia.org/wiki/Gabriele_D'Annunzio
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/37849#Il-ferro
 gutenberg_bookshelf: IT Teatro in prosa
 gutenberg_issued: '2011-10-25'
 gutenberg_type: Text
